@@ -1,3 +1,4 @@
+// Client-side form validationgit add 
 const form = document.getElementById("itemForm");
 const itemsList = document.getElementById("itemsList");
 
