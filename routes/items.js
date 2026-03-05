@@ -1,3 +1,4 @@
+// CRUD routes for lost and found items
 const express = require("express");
 const router = express.Router();
 const db = require("../config/db");
