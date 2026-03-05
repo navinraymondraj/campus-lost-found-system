@@ -5,6 +5,7 @@ const db = require("../config/db");
 const { body, validationResult } = require("express-validator");
 
 // CREATE
+// Security validation using express-validator
 router.post(
   "/",
   [
