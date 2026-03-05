@@ -1,4 +1,5 @@
 // Express server configuration for Lost & Found system
+//Initial Project Setup
 const express = require("express");
 const cors = require("cors");
 const helmet = require("helmet");
